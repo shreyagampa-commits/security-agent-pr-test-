@@ -1,0 +1,11 @@
+{
+  "name": "security-agent-pr-test",
+  "version": "1.0.0",
+  "dependencies": {
+    "fast-uri": "3.0.6"
+  },
+  "scripts": {
+    "build": "echo Build successful",
+    "test": "echo Tests passed"
+  }
+}
